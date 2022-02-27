@@ -34,9 +34,6 @@ pub enum Order_Message {
 ``` 
 <br />
 
-
-
-<br/>
 ## How to run?
 cargo run <br/>
 
